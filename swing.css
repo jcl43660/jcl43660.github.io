@@ -1,0 +1,40 @@
+#title {
+    text-decoration: underline;
+    text-align: center;
+    font-size: 48px;
+    color: red;
+}
+#background {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+h2 {
+    text-decoration: underline;
+    
+}
+.section {
+    font-size: 24px;
+}
+body {
+    margin-left: 5%;
+}
+.section p {
+    font-size: 24 px;
+    margin-right: 12em;
+    width: 30%;
+    margin-left: lem;
+    color: blue;
+}
+.section img {
+    width: 30%;
+    float: right;
+    object-fit: contain;
+}
